@@ -1,0 +1,10 @@
+username : admin@admin.com
+password : admin
+
+
+ file db-
+name = uploads
+id, name, size, downloads
+--------------------------------------------------------------------
+Name = Dipankar Malick
+email id = dipankarmalick97@gmail.com
