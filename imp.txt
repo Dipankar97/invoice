@@ -6,6 +6,7 @@ password : admin
 
 
  file db-
+create a folder inside Source Code "uploads" and "image"
 name = uploads
 id, name, size, downloads
 --------------------------------------------------------------------
