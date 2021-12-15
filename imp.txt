@@ -1,3 +1,6 @@
+open Source Code folder and run index.php
+
+
 username : admin@admin.com
 password : admin
 
